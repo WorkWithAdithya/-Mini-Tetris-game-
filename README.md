@@ -44,3 +44,8 @@ connected throughout the game.  </p>
 <img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img7.png" width="500" height="700" >
 <h3> Case when the game ends: </h3>
 <img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img8.png" width="500" height="316" >
+
+
+<h1>Feel free to contact me!</h1>
+<p>Name : Adithya BS</p>
+<p>Email : workwithadithya01@gmail.com</p>
