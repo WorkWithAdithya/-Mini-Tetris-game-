@@ -29,18 +29,18 @@ connected throughout the game.  </p>
 <h2> I/O Screenshots of the application </h2>
 
 <h3> Case when the right-side block matches with the current block: </h3> 
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img1.png" width="500" height="316" >
+<img src = https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img1.png width="500" height="316" >
 <h3> Case when the left-side block matches with the current block: </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img2.png" width="500" height="316" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img2.png" width="500" height="316" >
 <h3> Case when the bottom-block matches with the current block: </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img3.png" width="500" height="316" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img3.png" width="500" height="316" >
 <h3> Multiple matchings of blocks consecutively: </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img4.png" width="500" height="316" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img4.png" width="500" height="316" >
 <h3> Scoring (Case when 2 blocks match): </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img5.png" width="500" height="700" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img5.png" width="500" height="700" >
 <h3> Scoring (Case when 3 blocks match): </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img6.png" width="500" height="700" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img6.png" width="500" height="700" >
 <h3> Case when the game restarts: </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img7.png" width="500" height="700" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img7.png" width="500" height="700" >
 <h3> Case when the game ends: </h3>
-<img src = "https://github.com/gautamthareja/MiniTetris/blob/main/Application%20Screenshots/img8.png" width="500" height="316" >
+<img src = "https://github.com/WorkWithAdithya/Mini-Tetris-game/blob/main/Application%20Screenshots/img8.png" width="500" height="316" >
