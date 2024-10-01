@@ -1,5 +1,10 @@
 <h1>  Mini-Tetris-game</h1>
 
+<h1>Language used :</h1>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+
+
 <h2>About the game </h2>
 <p>In the game, what the user has to do to earn points, is to match the blocks falling 
 down with the same colour blocks. The user can match the blocks in either vertical or 
